@@ -87,11 +87,9 @@ A natural logarithm decreasing curve formula is used to determine the percentage
 
 **[Showkarma.xyz](https://www.showkarma.xyz/)** →Built the reputation points system for 0xCrypto DAO and successfully integrated Showkarma's solution onto the DAO's Discord server and Snapshot. Still working on the integration with Discourse, Dework, and Coordinape. 
 
-[SuperDAO ](https://app.superdao.co/0xcrypto-dao-es/members) → 
+[SuperDAO ](https://app.superdao.co/0xcrypto-dao-es/members) → created and onboarded 0xCrypto's SuperDAO smart contract framework. 
 
-
-Set the bases to create a professionalized operations department:
-
+**Building a DAO sessions**: moderated 8 AMAs and 3 panels with no less than 12 members per session to discuss about the DAO's governance and go-to-market strategy. 
 
 ## My Token Evalutation Framework
 
