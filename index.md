@@ -12,7 +12,7 @@ Welcome to my degen CV. For a more serious version of myself, please follow this
 
 - Writing about tokenomics and DAO governance structures. Researching the Lockdrop and Liquidity Bootstrap Auction token launch mechanisms; Utility-Strengthened Price Floor applicability; repNTTs, govNTTs, and credNTTs. Extremely excited about Continuos Organizations and Decentralizaed Autonomous Trusts 
 
-- Learning cadCAD, deciphering and iterating with Machinations.io  
+- Learning cadCAD and iterating with Machinations.io  
 
 - DAOs: Token Engineering Commons, Tokenomics DAO, 0xCrypto DAO
 
