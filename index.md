@@ -1,18 +1,24 @@
 ## I'm Eduardo Sultan Gampel - Exascale.eth 
 
-Web3-native analytics professional with 2.5-year work experience as a tokenomics designer, DAO governance strategist, and project manager.
+Web3-native analytics professional with 3-year work experience as a tokenomics designer, DAO governance strategist, and product manager.
 
 Welcome to my degen CV. For a more serious version of myself, please follow this link → [Eduardo Sultan Gampel's LinkedIn](https://www.linkedin.com/in/eduardosultangampel/) 
 
 **Summary** 
 
+- Founder at [Perkss Protocol](https://perkss.io/) - Full-time
+
+- Co-Founder at [Colectiv3]([https://perkss.io/](https://docs.google.com/document/d/1Kl2oPrta1VNUdRJpRMKqgNr6CCbtqy7gEK0cnxBdzDI/edit)) - Part-time
+
+- Product Owner at [Changetheblock](https://changetheblock.com/) - Full-time
+
 - PM and Tokenomics Analyst at [Changetheblock](https://changetheblock.com/) - Full-time
 
 - DAO Governance Lead at [0xCrypto DAO](https://0xcrypto.juansabatino.es/) - Part-time
 
-- Writing about tokenomics and DAO governance structures. Researching the Lockdrop and Liquidity Bootstrap Auction token launch mechanisms; Utility-Strengthened Price Floor applicability; repNTTs, govNTTs, and credNTTs. Extremely excited about Continuos Organizations and Decentralizaed Autonomous Trusts 
+- Researching about consumption data democratization via decentralized technologies such as blockchain, writing about deand Venture DAO governance structures. Building Perkss, the Web3 Solution to Ad Platforms; and Colectiv3, the first Venture DAO focused on investing in early-stage Latinamerican Web3 startups. Extremely excited about Continuos Organizations and Decentralizaed Autonomous Trusts 
 
-- Learning cadCAD and iterating with Machinations.io  
+- Learning to master cadCAD and iterating with Machinations.io  
 
 - DAOs: Token Engineering Commons, Tokenomics DAO, 0xCrypto DAO
 
@@ -26,9 +32,22 @@ Welcome to my degen CV. For a more serious version of myself, please follow this
 
 - IE University, Dual Bachelor's Degree in Economics and Laws → (2016-2021)
 
+- Token Engineering, Crypto-economic Systems Engineering Online Course - (2022)
+
 - Oxford University, Oxford Blockchain Strategy Programme → (01/2022 - 05/2022)
 
 ## Work History / Experience
+
+**Perkss Protocol**
+Building Perkss Protocol's MVP. 
+- Product Development
+- Business strategy and business plan
+- Legal and regulatory compliance
+- Progressive decentralization roadmap
+- Product roadmap
+- Everything. 
+
+For a deep-dive on Perkss, please follow this link [Perkss](https://www.notion.so/Perkss-Protocol-1ed3489aba3a45fa9fe4e7d146bb395b?pvs=4)
 
 **Changetheblock**
 
@@ -163,6 +182,4 @@ This set of questions provides the basis for a more in-depth tokenomics analysis
 **My mantra in DAO Governance?** Governance should not be considered as a utility but a service for which a DAO/protocol pays for. 
 
 ### Support or Contact
-- eduardo@0xcryp.to
-- e.sultan@changetheblock.com
-- eduardo@promoo.es
+- eduardo@perkss.io
