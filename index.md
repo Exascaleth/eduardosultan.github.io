@@ -1,4 +1,4 @@
-## I'm Eduardo Sultan Gampel - Exascale.eth 
+## I'm Eduardo Sultan Gampel - eduardosg.eth 
 
 Web3-native analytics professional with 3-year work experience as a tokenomics designer, DAO governance strategist, and product manager.
 
