@@ -44,10 +44,16 @@ Building Perkss Protocol's MVP.
 - Business strategy and business plan
 - Legal and regulatory compliance
 - Progressive decentralization roadmap
+- Merkle tree implementation strategy
 - Product roadmap
 - Everything. 
 
 For a deep-dive on Perkss, please follow this link [Perkss](https://www.notion.so/Perkss-Protocol-1ed3489aba3a45fa9fe4e7d146bb395b?pvs=4)
+
+**The reason why I'm building Perkss**
+When I was 16 YO I founded [KreativeBox](https://kreativebox.es/). I suffered first hand the perils and costs of running ads online and opaque loyalty programs. After becoming a blockchain connoisseur and partnering with [AnalyticalWays](https://analyticalways.com/), I decided to jump ahead and change how the consumption data, advertisement, and loyalty industries work. 
+
+Perkss' mantra and relentless mission: democratize access to zero and frist-party consumption data. 
 
 **Changetheblock**
 
@@ -177,9 +183,9 @@ This set of questions provides the basis for a more in-depth tokenomics analysis
 - ETH L1, Polygon, Arbitrum, Optimism, zkSync, Gnosis Chain, BSC, Chainlink, The Graph, and Celo; Uniswap, Aave, Balancer, Maple Finance, Accross Bridge, Mirror.xyz, among maaaany others.  
 
 **Tools that make my web3 journey more exciting:** 
-- Nansen.ai, Token Unlocks, EthDrops, Dune Analytics, Messari Governor, DeFiLlama, Dove Metrics, Ora, Slurpxbt's Datafeed, Stratupy.world
+- DefiLlama, Nansen.ai, Token Unlocks, EthDrops, Dune Analytics, Messari Governor, DeFiLlama, Dove Metrics, Ora, Slurpxbt's Datafeed, Stratupy.world
 
-**My mantra in DAO Governance?** Governance should not be considered as a utility but a service for which a DAO/protocol pays for. 
+**My mantra in DAO Governance?** Governance should not be considered as a utility but a service for which a DAO/protocol pays for.  
 
 ### Support or Contact
 - eduardo@perkss.io
